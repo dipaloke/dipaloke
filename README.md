@@ -1,7 +1,7 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dipaloke.dipaloke&left_text=MyPageVisitors)
+<img align="right src="https://visitor-badge.laobi.icu/badge?page_id=dipaloke.dipaloke&left_text=MyPageVisitors"/>
 
 <h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=36454F&background=F8F9F900&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Dipaloke+Biswas!)](https://git.io/typing-svg)
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=36454F&background=F8F9F900&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Dipaloke+Biswas!" />
 </h1>
 <!--
 **dipaloke/dipaloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
