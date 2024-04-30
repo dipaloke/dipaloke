@@ -5,20 +5,49 @@
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3>A passionate FullStack Web Developer from Bangladesh. 🇧🇩 </h3>
+<h3 align="center">A passionate FullStack Web Developer from Bangladesh. 🇧🇩 </h3>
 
 <br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dipalokebiswas?label=Follow)](https://twitter.com/intent/follow?screen_name=dipalokebiswas)
-[![Linkedin: dipaloke](https://img.shields.io/badge/-dipaloke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipaloke-biswas-72681a10a/)](https://www.linkedin.com/in/dipaloke-biswas-72681a10a/)
-![GitHub followers](https://img.shields.io/github/followers/dipaloke?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://dipaloke-portfolio.vercel.app/)](https://dipaloke-portfolio.vercel.app/)
-![](https://visitor-badge.glitch.me/badge?page_id=dipaloke.dipaloke)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<div align="center">
+<a href="https://twitter.com/intent/follow?screen_name=dipalokebiswas" target="_blank">
+     <img src="https://img.shields.io/badge/follow-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+ </a>
+ <a href="https://join.skype.com/invite/woo1dB2yXfj4" target="_blank">
+     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+ </a>
+</div>
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/dipalokebiswas96/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+<br />
 
 <div align="center">
-    🔭 I’m currently working on **LingoLab (a clone of Duolingo)**
 
+🔭 I’m currently working on **A Language Learning Platform**.
+
+🌱 I’m currently learning **Docker, ReactNative, AWS**.
+
+💬 Ask me about **Node.js, React, Next.js... or anything [here](https://github.com/dipaloke/dipaloke/issues)**
+
+⚡ Fun fact **The world's first website, created by Tim Berners-Lee in 1991, is still online and accessible today at http://info.cern.ch.**
+
+</div>
+
+<div align="center"> 
+  <a href="mailto:dipalokebiswas96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/dipaloke-biswas-72681a10a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://dipaloke-portfolio.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
 <!--
