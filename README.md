@@ -34,7 +34,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 💬 Ask me about **Node.js, React, Next.js... or anything [here](https://github.com/dipaloke/dipaloke/issues)**
 
-⚡ Fun fact **The world's first website, created by Tim Berners-Lee in 1991, is still online and accessible today at http://info.cern.ch.**
+⚡ Fun fact: **The world's first website, created by Tim Berners-Lee in 1991, is still online and accessible today at http://info.cern.ch.**
 
 </div>
 
@@ -50,6 +50,35 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   </a>
 </div>
 
+<hr />
+
+<h2 align="center">🪔  Highlighted Stack 🪔</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,react,tailwind,bootstrap,mui,html,css,vscodium,github,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,prisma,mongodb,graphql,bun,nextjs,mysql" /><br>
+</div>
+
+<br/>
+<h2 align="center">🔬 Visualizing My Stack 🔬</h2>
+
+```javascript
+const dipaloke = {
+    language: ["Javascript", "Python"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongo", "MySql", "postgresql"],
+        misc: ["graph-QL", "framer-motion ", "drizzle-ORM", "payload-CMS", "framer-motion","bun"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+};
+
 <!--
 **dipaloke/dipaloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -64,3 +93,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+```
