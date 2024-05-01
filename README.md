@@ -64,20 +64,32 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ```javascript
 const dipaloke = {
-    language: ["Javascript", "Python"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "postgresql"],
-        misc: ["graph-QL", "framer-motion ", "drizzle-ORM", "payload-CMS", "framer-motion","bun"]
+  language: ["Javascript", "Python"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Express"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    mobileApp: {
+      native: ["Android Development"],
+    },
+    devOps: ["AWS", "Docker🐳"],
+    databases: ["mongo", "MySql", "postgresql"],
+    misc: [
+      "graph-QL",
+      "framer-motion ",
+      "drizzle-ORM",
+      "payload-CMS",
+      "framer-motion",
+      "bun",
+    ],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+  ],
 };
+```
 
 <!--
 **dipaloke/dipaloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -93,4 +105,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+
+```
+
 ```
