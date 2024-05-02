@@ -91,6 +91,7 @@ const dipaloke = {
 };
 ```
 
+<hr />
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -98,6 +99,11 @@ const dipaloke = {
   
   <br/><br/><br/>
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!--
 **dipaloke/dipaloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
