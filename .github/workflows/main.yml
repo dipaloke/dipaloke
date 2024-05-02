@@ -54,6 +54,9 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    # Define triggers explicitly for the job
+    # This job will only run based on the defined schedule (every 12 hours)
+    if: github.event_name == 'schedule'
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
