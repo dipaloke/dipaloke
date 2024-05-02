@@ -69,6 +69,9 @@ const dipaloke = {
     backEnd: {
       js: ["Node", "Express"],
     },
+    frontEnd: {
+      js: [React, NextJS]
+    }
     mobileApp: {
       native: ["Android Development"],
     },
@@ -97,96 +100,31 @@ const dipaloke = {
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dipaloke/dipaloke/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
+</div>
+<br />
+<hr />
+
+<h2 align="center">⚡  Stats  ⚡</h2>
+<br />
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dipaloke&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dipaloke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dipaloke&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<br /><br />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br />
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/dipaloke' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2039%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-416.8%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 95 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-🌆 Daytime                126 commits         ████████░░░░░░░░░░░░░░░░░   33.60 % 
-🌃 Evening                195 commits         █████████████░░░░░░░░░░░░   52.00 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Tuesday                  61 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Wednesday                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Thursday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Friday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Saturday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Sunday                   89 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-Markdown                 1 hr 40 mins        █████████████████████████   99.82 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-
-🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             █████████░░░░░░░░░░░░░░░░   36.00 % 
-TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-HTML                     7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-
-
-
-
- Last Updated on 02/05/2024 07:37:04 UTC
-<!--END_SECTION:waka-->
-
-<!--
-**dipaloke/dipaloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-
-```
-
-```
+<br/>
