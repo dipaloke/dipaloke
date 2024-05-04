@@ -5,7 +5,7 @@
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3 align="center">A passionate FullStack Web Developer from Bangladesh. 🇧🇩 </h3>
+<h3 align="center">Architecting Dynamic Web Solutions: Bringing Ideas to Life 🚀 </h3>
 
 <br/>
 
@@ -56,7 +56,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,react,tailwind,bootstrap,mui,html,css,vscodium,github,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,prisma,mongodb,graphql,bun,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,prisma,mongodb,graphql,bun,nextjs,jest,mysql" /><br>
 </div>
 
 <br/>
@@ -70,13 +70,14 @@ const dipaloke = {
       js: ["Node", "Express"],
     },
     frontEnd: {
-      js: [React, NextJS]
+      js: ["React", "NextJS"]
     }
     mobileApp: {
       native: ["Android Development"],
     },
     devOps: ["AWS", "Docker🐳"],
-    databases: ["mongo", "MySql", "postgresql"],
+    testingLibrary: ["Jest"],
+    databases: ["mongoDB", "MySql", "postgresql"],
     misc: [
       "graph-QL",
       "framer-motion ",
@@ -87,9 +88,10 @@ const dipaloke = {
     ],
   },
   architecture: [
-    "Serverless Architecture",
-    "Progressive web applications",
-    "Single page applications",
+    "Test_Driven_Development-(TDD)"
+    "Serverless_Architecture",
+    "Progressive_web_applications",
+    "Single_page_applications",
   ],
 };
 ```
