@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dipaloke.dipaloke&left_text=MyPageVisitors"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=4B0082&background=E0E0E000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Dipaloke+Biswas!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=2B2650&background=E0E0E000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Dipaloke+Biswas!" />
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3 align="center">A passionate FullStack Web Developer from Bangladesh. 🇧🇩 </h3>
+<h3 align="center">Architecting Dynamic Web Solutions: Bringing Ideas to Life 🚀 </h3>
 
 <br/>
 
@@ -56,7 +56,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,react,tailwind,bootstrap,mui,html,css,vscodium,github,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,prisma,mongodb,graphql,bun,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,prisma,mongodb,graphql,bun,nextjs,jest,mysql" /><br>
 </div>
 
 <br/>
@@ -74,7 +74,8 @@ const dipaloke = {
     },
     mobileApp: ["React Native"],
     devOps: ["AWS", "Docker🐳"],
-    databases: ["mongoDB", "MySql", "postgresql"],
+    testingLibrary: ["Jest"],
+    databases: ["mongoDBDB", "MySql", "postgresql"],
     misc: [
       "graph-QL",
       "framer-motion ",
@@ -87,9 +88,10 @@ const dipaloke = {
     ],
   },
   architecture: [
-    "Serverless Architecture",
-    "Progressive web applications",
-    "Single page applications",
+    "Test_Driven_Development-(TDD)"
+    "Serverless_Architecture",
+    "Progressive_web_applications",
+    "Single_page_applications",
   ],
   Knowledgeable: ["UI", "UX"],
   hardWorker: true,
@@ -143,6 +145,78 @@ console.log(dipaloke.hireable());
 <br /><br />
 
 <!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2045%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-422.8%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data**
+
+> 📦 ? Used in GitHub's Storage
+>
+> 🏆 119 Contributions in the Year 2024
+>
+> 💼 Opted to Hire
+>
+> 📜 22 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
+
+```text
+🌞 Morning                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+🌆 Daytime                138 commits         █████████░░░░░░░░░░░░░░░░   34.59 %
+🌃 Evening                206 commits         █████████████░░░░░░░░░░░░   51.63 %
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+```
+
+📅 **I'm Most Productive on Sunday**
+
+```text
+Monday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Tuesday                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Wednesday                57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Thursday                 56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Saturday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Sunday                   93 commits          ██████░░░░░░░░░░░░░░░░░░░   23.31 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages:
+TypeScript               22 hrs 6 mins       █████████████████████░░░░   83.27 %
+Markdown                 3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+
+🔥 Editors:
+VS Code                  23 hrs 21 mins      ██████████████████████░░░   88.01 %
+Obsidian                 3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+
+💻 Operating System:
+Linux                    26 hrs 32 mins      █████████████████████████   100.00 %
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+JavaScript               9 repos             █████████░░░░░░░░░░░░░░░░   36.00 %
+TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 %
+HTML                     7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 %
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+```
+
+Last Updated on 13/05/2024 12:23:05 UTC
+
 <!--END_SECTION:waka-->
 
 <br />
