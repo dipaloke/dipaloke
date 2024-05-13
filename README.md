@@ -77,14 +77,7 @@ const dipaloke = {
     testingLibrary: ["Jest"],
     databases: ["mongoDBDB", "MySql", "postgresql"],
     misc: [
-      "graph-QL",
-      "framer-motion ",
-      "Prisma-ORM",
-      "drizzle-ORM",
-      "payload-CMS",
-      "framer-motion",
-      "bun",
-      "Zustand",
+      "graph-QL", "framer-motion ", "Prisma-ORM", "drizzle-ORM", "payload-CMS", "framer-motion", "bun", "Zustand",
     ],
   },
   architecture: [
@@ -119,7 +112,7 @@ dipaloke.hireable = function () {
   );
 };
 
-console.log(dipaloke.hireable());
+console.log(dipaloke.hireable()); //TRUE
 ```
 
 <hr />
