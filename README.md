@@ -34,7 +34,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 💬 Ask me about **Node.js, React, Next.js... or anything [here](https://github.com/dipaloke/dipaloke/issues)**
 
-⚡ Fun fact: **The world's first website, created by Tim Berners-Lee in 1991, is still online and accessible today at http://info.cern.ch.**
+⚡ Fun fact: **The world's first website, created by Tim Berners-Lee in 1991, is still online and accessible today at [here](http://info.cern.ch).**
 
 </div>
 
@@ -65,25 +65,25 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const dipaloke = {
   language: ["Javascript", "Python"],
-  technologies: {
+  skills: {
     backEnd: {
-      js: ["Node", "Express"],
+      js: ["Node", "Express", "Next.js"],
     },
     frontEnd: {
-      js: [React, NextJS]
-    }
-    mobileApp: {
-      native: ["Android Development"],
+      js: ["React", "Next.js"],
     },
+    mobileApp: ["React Native"],
     devOps: ["AWS", "Docker🐳"],
-    databases: ["mongo", "MySql", "postgresql"],
+    databases: ["mongoDB", "MySql", "postgresql"],
     misc: [
       "graph-QL",
       "framer-motion ",
+      "Prisma-ORM",
       "drizzle-ORM",
       "payload-CMS",
       "framer-motion",
       "bun",
+      "Zustand",
     ],
   },
   architecture: [
@@ -91,7 +91,33 @@ const dipaloke = {
     "Progressive web applications",
     "Single page applications",
   ],
+  Knowledgeable: ["UI", "UX"],
+  hardWorker: true,
+  quickLearner: true,
+  problemSolver: true,
 };
+
+dipaloke.hireable = function () {
+  const requiredSkillsCount = Object.keys(this.skills).reduce(
+    (count, category) => {
+      return count + this.skills[category].length;
+    },
+    0
+  );
+
+  const isFullstack =
+    this.skills.backEnd.js.includes("Next.js") &&
+    this.skills.frontEnd.js.includes("Next.js");
+
+  return (
+    this.hardWorker &&
+    this.problemSolver &&
+    requiredSkillsCount >= 5 &&
+    isFullstack
+  );
+};
+
+console.log(dipaloke.hireable());
 ```
 
 <hr />
