@@ -138,15 +138,17 @@ console.log(dipaloke.hireable()); //TRUE
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 314 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -210,7 +212,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2024 00:59:00 UTC
+ Last Updated on 12/07/2024 12:25:55 UTC
 <!--END_SECTION:waka-->
 
 <br />
