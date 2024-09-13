@@ -138,9 +138,9 @@ console.log(dipaloke.hireable()); //TRUE
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -148,7 +148,7 @@ console.log(dipaloke.hireable()); //TRUE
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 432 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -183,19 +183,16 @@ Sunday                   134 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               2 hrs 58 mins       ██████████████░░░░░░░░░░░   56.43 % 
-Other                    1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   36.83 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Prisma                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    1 hr 33 mins        ████████████████████████░   94.86 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 20 mins       ████████████████░░░░░░░░░   63.17 % 
-Chrome                   1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   36.83 % 
+Chrome                   1 hr 33 mins        ████████████████████████░   94.86 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 💻 Operating System: 
-Linux                    5 hrs 7 mins        ████████████████████████░   97.14 % 
-Windows                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -211,7 +208,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2024 12:27:54 UTC
+ Last Updated on 13/09/2024 01:04:47 UTC
 <!--END_SECTION:waka-->
 
 <br />
