@@ -148,8 +148,6 @@ console.log(dipaloke.hireable()); //TRUE
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 433 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -183,13 +181,13 @@ Sunday                   134 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +203,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2024 12:25:36 UTC
+ Last Updated on 22/09/2024 01:12:03 UTC
 <!--END_SECTION:waka-->
 
 <br />
