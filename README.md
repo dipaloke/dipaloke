@@ -138,7 +138,7 @@ console.log(dipaloke.hireable()); //TRUE
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -207,7 +207,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2024 01:08:33 UTC
+ Last Updated on 24/12/2024 12:29:25 UTC
 <!--END_SECTION:waka-->
 
 <br />
