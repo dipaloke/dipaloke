@@ -148,8 +148,6 @@ console.log(dipaloke.hireable()); //TRUE
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 493 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -207,7 +205,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2024 01:07:50 UTC
+ Last Updated on 25/12/2024 12:28:57 UTC
 <!--END_SECTION:waka-->
 
 <br />
