@@ -140,7 +140,7 @@ console.log(dipaloke.hireable()); //TRUE
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -183,14 +183,13 @@ Sunday                   142 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 1 min               ███████████████████████░░   92.10 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +205,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2024 12:29:23 UTC
+ Last Updated on 31/12/2024 01:08:07 UTC
 <!--END_SECTION:waka-->
 
 <br />
