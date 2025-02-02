@@ -138,7 +138,7 @@ console.log(dipaloke.hireable()); //TRUE
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -147,8 +147,6 @@ console.log(dipaloke.hireable()); //TRUE
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 28 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -211,7 +209,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 01:10:25 UTC
+ Last Updated on 02/02/2025 12:25:34 UTC
 <!--END_SECTION:waka-->
 
 <br />
