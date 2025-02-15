@@ -140,13 +140,15 @@ console.log(dipaloke.hireable()); //TRUE
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 35 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -181,13 +183,13 @@ Sunday                   145 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               1 hr 46 mins        ██████████████████████░░░   87.35 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Prisma                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+TypeScript               1 hr 46 mins        ██████████████████████░░░   87.79 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Prisma                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-Cursor                   1 hr 47 mins        ██████████████████████░░░   88.40 % 
-Chrome                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Cursor                   1 hr 47 mins        ██████████████████████░░░   88.84 % 
+Chrome                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 
 💻 Operating System: 
 Linux                    2 hrs 1 min         █████████████████████████   100.00 % 
@@ -206,7 +208,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 12:29:20 UTC
+ Last Updated on 15/02/2025 01:07:19 UTC
 <!--END_SECTION:waka-->
 
 <br />
