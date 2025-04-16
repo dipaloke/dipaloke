@@ -183,14 +183,13 @@ Sunday                   146 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Prisma                   0 secs              ████████████████░░░░░░░░░   64.97 % 
-Other                    0 secs              █████████░░░░░░░░░░░░░░░░   35.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +205,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2025 12:32:41 UTC
+ Last Updated on 16/04/2025 01:16:21 UTC
 <!--END_SECTION:waka-->
 
 <br />
