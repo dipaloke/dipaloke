@@ -148,7 +148,7 @@ console.log(dipaloke.hireable()); //TRUE
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -183,14 +183,13 @@ Sunday                   147 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               23 mins             ████████████████████░░░░░   78.07 % 
-Markdown                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +205,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2025 12:34:27 UTC
+ Last Updated on 30/05/2025 01:17:32 UTC
 <!--END_SECTION:waka-->
 
 <br />
