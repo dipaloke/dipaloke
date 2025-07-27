@@ -64,8 +64,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 
 ```javascript
-// ⚡️ Dipaloke's Tech Galaxy ⚡️
-const techGalaxy = {
+// ⚡️ My Tech Universe ⚡️
+const techUniverse = {
   // 🌟 Core Languages
   languages: ["JavaScript", "TypeScript", "Python"],
 
@@ -89,28 +89,28 @@ const techGalaxy = {
 };
 
 // 🎯 Check Hireability
-techGalaxy.isHireable = () =>
-  techGalaxy.fullstack.includes("Next.js") &&
-  techGalaxy.metaSkills.includes("Problem Solving");
+techUniverse.isHireable = () =>
+  techUniverse.fullstack.includes("Next.js") &&
+  techUniverse.metaSkills.includes("Problem Solving");
 
 // 🪄 Create Visual Stack
 console.log(`
-⚡️ DIPALOKE'S TECH GALAXY ⚡️
+⚡️ MY TECH UNIVERSE ⚡️
 ----------------------------
-🌠 LANGUAGES: ${techGalaxy.languages.join(" • ")}
-🚀 FRONTEND: ${techGalaxy.frontend.join(" • ")}
-🔧 BACKEND: ${techGalaxy.backend.join(" • ")}
-🧪 TESTING: ${techGalaxy.testing.join(" • ")}
-🛠 DEVOPS: ${techGalaxy.devOps.join(" • ")}
-🗄 DATABASES: ${techGalaxy.databases.join(" • ")}
-🎨 DESIGN: ${techGalaxy.design.join(" • ")}
-✨ SKILLS: ${techGalaxy.metaSkills.join(" • ")}
+🌠 LANGUAGES: ${techUniverse.languages.join(" • ")}
+🚀 FRONTEND: ${techUniverse.frontend.join(" • ")}
+🔧 BACKEND: ${techUniverse.backend.join(" • ")}
+🧪 TESTING: ${techUniverse.testing.join(" • ")}
+🛠 DEVOPS: ${techUniverse.devOps.join(" • ")}
+🗄 DATABASES: ${techUniverse.databases.join(" • ")}
+🎨 DESIGN: ${techUniverse.design.join(" • ")}
+✨ SKILLS: ${techUniverse.metaSkills.join(" • ")}
 
-💼 HIREABLE: ${techGalaxy.isHireable() ? "YES! 🟢" : "Let's talk 👋"}
+💼 HIREABLE: ${techUniverse.isHireable() ? "YES! 🟢" : "Let's talk 👋"}
 `);
 
 console.log("🌟 Let's build something amazing!");
-console.log("🔬 Testing Specialist: Unit | Automation | Manual");
+console.log("🔬 Testing Hero: Unit | Automation | Manual");
 ```
 > 💡 *Want to know more? Check out my projects or connect with me!*
 
