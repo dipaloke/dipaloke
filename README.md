@@ -28,9 +28,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <div align="center">
 
-🔭 I’m currently working on **A Language Learning Platform**.
+🔭 I’m currently working on **A Scalable Real Estate Application**.
 
-🌱 I’m currently learning **Docker, ReactNative, AWS**.
+🌱 I’m currently learning **AWS, Docker, : (DevOps)**.
 
 💬 Ask me about **Node.js, React, Next.js... or anything [here](https://github.com/dipaloke/dipaloke/issues)**
 
@@ -38,7 +38,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 </div>
 
-<div align="center"> 
+<div align="center">
   <a href="mailto:dipalokebiswas96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -58,159 +58,148 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
     <img src="https://skillicons.dev/icons?i=linux,react,tailwind,bootstrap,mui,html,css,vscodium,github,figma" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,prisma,mongodb,graphql,bun,nextjs,jest,mysql" /><br>
 </div>
-
-<br/>
-<h2 align="center">🔬 Visualizing My Stack 🔬</h2>
-
-```javascript
-const dipaloke = {
-  language: ["Javascript", "Python"],
-  skills: {
-    backEnd: {
-      js: ["Node", "Express", "Next.js"],
-    },
-    frontEnd: {
-      js: ["React", "Next.js"],
-    },
-    mobileApp: ["React Native"],
-    devOps: ["AWS", "Docker🐳"],
-    testingLibrary: ["Jest"],
-    databases: ["mongoDBDB", "MySql", "postgresql"],
-    misc: [
-      "graph-QL", "framer-motion ", "Prisma-ORM", "drizzle-ORM", "payload-CMS", "framer-motion", "bun", "Zustand",
-    ],
-  },
-  architecture: [
-    "Test_Driven_Development-(TDD)"
-    "Serverless_Architecture",
-    "Progressive_web_applications",
-    "Single_page_applications",
-  ],
-  Knowledgeable: ["UI", "UX"],
-  hardWorker: true,
-  quickLearner: true,
-  problemSolver: true,
-};
-
-dipaloke.hireable = function () {
-  const requiredSkillsCount = Object.keys(this.skills).reduce(
-    (count, category) => {
-      return count + this.skills[category].length;
-    },
-    0
-  );
-
-  const isFullstack =
-    this.skills.backEnd.js.includes("Next.js") &&
-    this.skills.frontEnd.js.includes("Next.js");
-
-  return (
-    this.hardWorker &&
-    this.problemSolver &&
-    requiredSkillsCount >= 5 &&
-    isFullstack
-  );
-};
-
-console.log(dipaloke.hireable()); //TRUE
-```
-
-<hr />
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dipaloke/dipaloke/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
 <br />
 <hr />
+<h2 align="center">🔬 Visualizing My Stack 🔬</h2>
 
+
+```javascript
+// ⚡️ Dipaloke's Tech Galaxy ⚡️
+const techGalaxy = {
+  // 🌟 Core Languages
+  languages: ["JavaScript", "TypeScript", "Python"],
+
+  // 🚀 Development Stack
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "Prisma"],
+  fullstack: ["Next.js", "REST APIs"],
+
+  // 🧪 Tech & Tools
+  databases: ["MongoDB", "PostgreSQL", "CockroachDB"],
+  testing: ["Jest", "Selenium", "Manual Testing"],
+  devOps: ["Docker", "AWS", "Vercel"],
+  design: ["Figma", "UI/UX"],
+
+  // ✨ Special Powers
+  metaSkills: [
+    "Problem Solving",
+    "Agile Development",
+    "Continuous Learning"
+  ]
+};
+
+// 🎯 Check Hireability
+techGalaxy.isHireable = () =>
+  techGalaxy.fullstack.includes("Next.js") &&
+  techGalaxy.metaSkills.includes("Problem Solving");
+
+// 🪄 Create Visual Stack
+console.log(`
+⚡️ DIPALOKE'S TECH GALAXY ⚡️
+----------------------------
+🌠 LANGUAGES: ${techGalaxy.languages.join(" • ")}
+🚀 FRONTEND: ${techGalaxy.frontend.join(" • ")}
+🔧 BACKEND: ${techGalaxy.backend.join(" • ")}
+🧪 TESTING: ${techGalaxy.testing.join(" • ")}
+🛠 DEVOPS: ${techGalaxy.devOps.join(" • ")}
+🗄 DATABASES: ${techGalaxy.databases.join(" • ")}
+🎨 DESIGN: ${techGalaxy.design.join(" • ")}
+✨ SKILLS: ${techGalaxy.metaSkills.join(" • ")}
+
+💼 HIREABLE: ${techGalaxy.isHireable() ? "YES! 🟢" : "Let's talk 👋"}
+`);
+
+console.log("🌟 Let's build something amazing!");
+console.log("🔬 Testing Specialist: Unit | Automation | Manual");
+```
+> 💡 *Want to know more? Check out my projects or connect with me!*
+
+
+<hr />
 <h2 align="center">⚡  Stats  ⚡</h2>
 <br />
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dipaloke&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dipaloke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dipaloke&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<br/>
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dipaloke&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br /><br />
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+>
 > 🏆 96 Contributions in the Year 2025
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 63 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 63 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-🌆 Daytime                249 commits         ████████░░░░░░░░░░░░░░░░░   31.01 % 
-🌃 Evening                386 commits         ████████████░░░░░░░░░░░░░   48.07 % 
-🌙 Night                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+🌞 Morning                74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+🌆 Daytime                249 commits         ████████░░░░░░░░░░░░░░░░░   31.01 %
+🌃 Evening                386 commits         ████████████░░░░░░░░░░░░░   48.07 %
+🌙 Night                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Tuesday                  113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Wednesday                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Thursday                 139 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Friday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Sunday                   150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Monday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+Tuesday                  113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 %
+Wednesday                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Thursday                 139 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 %
+Friday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Sunday                   150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
 
-💬 Programming Languages: 
-TypeScript               2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.64 % 
-Python                   1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Markdown                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Other                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+💬 Programming Languages:
+TypeScript               2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.64 %
+Python                   1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 %
+Markdown                 1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 %
+Other                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 %
+Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 
-🔥 Editors: 
-VS Code                  4 hrs 29 mins       ███████████████░░░░░░░░░░   61.56 % 
-Chrome                   2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.44 % 
+🔥 Editors:
+VS Code                  4 hrs 29 mins       ███████████████░░░░░░░░░░   61.56 %
+Chrome                   2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.44 %
 
-💻 Operating System: 
-Windows                  7 hrs 17 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  7 hrs 17 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               29 repos            █████████████░░░░░░░░░░░░   50.88 % 
-TypeScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JavaScript               29 repos            █████████████░░░░░░░░░░░░   50.88 %
+TypeScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   28.07 %
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
+Last Updated on 27/07/2025 01:42:23 UTC
 
-
-
- Last Updated on 27/07/2025 01:42:23 UTC
 <!--END_SECTION:waka-->
 
 <br />
