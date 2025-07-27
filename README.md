@@ -62,55 +62,27 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <hr />
 <h2 align="center">🔬 Visualizing My Stack 🔬</h2>
 
-
 ```javascript
-// ⚡️ My Tech Universe ⚡️
-const techUniverse = {
-  // 🌟 Core Languages
-  languages: ["JavaScript", "TypeScript", "Python"],
-
-  // 🚀 Development Stack
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "Prisma"],
-  fullstack: ["Next.js", "REST APIs"],
-
-  // 🧪 Tech & Tools
-  databases: ["MongoDB", "PostgreSQL", "CockroachDB"],
-  testing: ["Jest", "Selenium", "Manual Testing"],
-  devOps: ["Docker", "AWS", "Vercel"],
-  design: ["Figma", "UI/UX"],
-
-  // ✨ Special Powers
-  metaSkills: [
-    "Problem Solving",
-    "Agile Development",
-    "Continuous Learning"
-  ]
-};
-
-// 🎯 Check Hireability
-techUniverse.isHireable = () =>
-  techUniverse.fullstack.includes("Next.js") &&
-  techUniverse.metaSkills.includes("Problem Solving");
-
-// 🪄 Create Visual Stack
-console.log(`
-⚡️ MY TECH UNIVERSE ⚡️
-----------------------------
-🌠 LANGUAGES: ${techUniverse.languages.join(" • ")}
-🚀 FRONTEND: ${techUniverse.frontend.join(" • ")}
-🔧 BACKEND: ${techUniverse.backend.join(" • ")}
-🧪 TESTING: ${techUniverse.testing.join(" • ")}
-🛠 DEVOPS: ${techUniverse.devOps.join(" • ")}
-🗄 DATABASES: ${techUniverse.databases.join(" • ")}
-🎨 DESIGN: ${techUniverse.design.join(" • ")}
-✨ SKILLS: ${techUniverse.metaSkills.join(" • ")}
-
-💼 HIREABLE: ${techUniverse.isHireable() ? "YES! 🟢" : "Let's talk 👋"}
-`);
-
-console.log("🌟 Let's build something amazing!");
-console.log("🔬 Testing Hero: Unit | Automation | Manual");
+✨ DIPALOKE BISWAS ✨
+=======================
+⚡️ FULL-STACK DEVELOPER ( FRONTEND & TESTING FOCUSED )
+🌐 dipalokebiswas@proton.me
+=======================
+🌠 LANGUAGES: JavaScript • TypeScript • Python
+🚀 FRONTEND: React • Next.js • TailwindCSS
+🖥️ UI_LIBRARY: MaterialUI • ShadCN . Tailwind
+🔧 BACKEND: Node.js • Express • Prisma • Drizzle
+🧪 TESTING: Jest • Selenium • Manual Testing
+📐 DEVOPS: Docker • AWS • Vercel
+💻 DATABASES: MongoDB • PostgreSQL • CockroachDB
+🎨 DESIGN: Figma • UI/UX
+🤖 INTEGRATION: Oddo • SailsForce • Jira
+🧑🏻‍💼 MANAGEMENT: Trello • Jira
+✨ SKILLS: Problem Solving • Agile Development • Continuous Learning
+=======================
+💼 Open for new opportunities!
+🚀 Let's build something amazing!
+🔬 Testing Wizard: Unit | Automation | Manual
 ```
 > 💡 *Want to know more? Check out my projects or connect with me!*
 
