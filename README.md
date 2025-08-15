@@ -102,7 +102,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -110,11 +110,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
-> 📜 63 Public Repositories 
+> 📜 64 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -145,8 +143,7 @@ Sunday                   154 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    0 secs              ███████████████░░░░░░░░░░   59.24 % 
-Markdown                 0 secs              ██████████░░░░░░░░░░░░░░░   40.76 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 Chrome                   0 secs              █████████████████████████   100.00 % 
@@ -158,17 +155,17 @@ Windows                  0 secs              ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               29 repos            █████████████░░░░░░░░░░░░   50.88 % 
-TypeScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JavaScript               29 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+HTML                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 14/08/2025 12:38:06 UTC
+ Last Updated on 15/08/2025 01:22:53 UTC
 <!--END_SECTION:waka-->
 
 <br />
