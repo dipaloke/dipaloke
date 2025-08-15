@@ -100,7 +100,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -109,6 +109,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 104 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -165,7 +167,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2025 01:22:53 UTC
+ Last Updated on 15/08/2025 12:35:09 UTC
 <!--END_SECTION:waka-->
 
 <br />
