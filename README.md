@@ -110,6 +110,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 104 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 64 Public Repositories 
@@ -143,14 +145,13 @@ Sunday                   154 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 14 mins             ████████████████████████░   96.62 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Markdown                 13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   14 mins             █████████████████████████   100.00 % 
+Chrome                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -166,7 +167,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2025 12:34:01 UTC
+ Last Updated on 23/08/2025 01:14:24 UTC
 <!--END_SECTION:waka-->
 
 <br />
