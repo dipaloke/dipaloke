@@ -100,7 +100,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -167,7 +167,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2025 12:30:34 UTC
+ Last Updated on 22/09/2025 01:19:43 UTC
 <!--END_SECTION:waka-->
 
 <br />
