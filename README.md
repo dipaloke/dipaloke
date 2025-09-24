@@ -100,7 +100,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -145,13 +145,14 @@ Sunday                   155 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               12 mins             █████████████████████████   100.00 % 
+TypeScript               19 mins             █████████████████████████   98.59 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Chrome                   12 mins             █████████████████████████   100.00 % 
+Chrome                   19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -167,7 +168,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2025 01:13:40 UTC
+ Last Updated on 24/09/2025 12:34:32 UTC
 <!--END_SECTION:waka-->
 
 <br />
