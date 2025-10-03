@@ -100,8 +100,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
@@ -118,44 +116,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-🌆 Daytime                255 commits         ████████░░░░░░░░░░░░░░░░░   31.06 % 
-🌃 Evening                397 commits         ████████████░░░░░░░░░░░░░   48.36 % 
-🌙 Night                  95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Tuesday                  113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Wednesday                125 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Thursday                 150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Friday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Sunday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-JSON                     35 mins             ████████████████████████░   94.63 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-
-🔥 Editors: 
-Chrome                   37 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -169,7 +129,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 12:32:55 UTC
+ Last Updated on 03/10/2025 01:12:14 UTC
 <!--END_SECTION:waka-->
 
 <br />
