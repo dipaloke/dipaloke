@@ -100,9 +100,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -145,15 +145,17 @@ Sunday                   155 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     2 mins              ██████████████░░░░░░░░░░░   54.02 % 
-Other                    1 min               ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Python                   2 hrs 38 mins       ██████████████████████░░░   87.35 % 
+Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Batchfile                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-Chrome                   4 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 35 mins       █████████████████████░░░░   85.86 % 
+Chrome                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -169,7 +171,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2025 12:30:15 UTC
+ Last Updated on 06/10/2025 01:14:39 UTC
 <!--END_SECTION:waka-->
 
 <br />
