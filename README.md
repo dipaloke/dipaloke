@@ -78,12 +78,12 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 💻 DATABASES: PostgreSQL • InfluxDB • MongoDB
 🧪 TESTING: Selenium • Pytest • Jest
 🧩 TOOLS & INTEGRATION: Jira • Trello • Odoo
-=======================
 
+=======================
 🛜 Current Designation : NETWORK AUTOMATION ENGINEER at Fiber@Home
 💼 Open to new opportunities
 🚀 Let’s build something impactful
-
+=======================
 ```
 > 💡 *Want to know more? Check out my projects or connect with me!*
 
