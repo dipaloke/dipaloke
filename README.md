@@ -101,7 +101,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -111,7 +111,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 187 Contributions in the Year 2025
+> 🏆 188 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -119,6 +119,48 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+🌆 Daytime                289 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
+🌃 Evening                429 commits         ████████████░░░░░░░░░░░░░   47.61 % 
+🌙 Night                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Tuesday                  128 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Wednesday                141 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Thursday                 163 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Friday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Saturday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Sunday                   168 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+TypeScript               26 hrs 24 mins      ████████████████████████░   94.61 % 
+Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Markdown                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+VS Code                  26 hrs 13 mins      ███████████████████████░░   93.95 % 
+Chrome                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+
+💻 Operating System: 
+Linux                    25 hrs 59 mins      ███████████████████████░░   93.12 % 
+Windows                  1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -132,7 +174,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2025 12:38:42 UTC
+ Last Updated on 04/12/2025 01:21:11 UTC
 <!--END_SECTION:waka-->
 
 <br />
