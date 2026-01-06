@@ -101,11 +101,11 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-879%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-879%20hrs%206%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -146,14 +146,15 @@ Sunday                   174 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               3 hrs 59 mins       █████████████████████████   98.95 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+TypeScript               3 hrs 59 mins       ████████████████████████░   94.55 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -169,7 +170,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 12:36:35 UTC
+ Last Updated on 06/01/2026 01:25:53 UTC
 <!--END_SECTION:waka-->
 
 <br />
