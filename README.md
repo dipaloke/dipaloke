@@ -101,7 +101,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -146,13 +146,20 @@ Sunday                   176 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 29 mins        ████████████████████░░░░░   80.91 % 
+Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              44 mins             ██████████░░░░░░░░░░░░░░░   40.51 % 
+Chrome                   37 mins             ████████░░░░░░░░░░░░░░░░░   33.62 % 
+VS Code                  28 mins             ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 49 mins        █████████████████████████   98.62 % 
+Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -168,7 +175,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2026 13:06:49 UTC
+ Last Updated on 25/03/2026 01:58:27 UTC
 <!--END_SECTION:waka-->
 
 <br />
