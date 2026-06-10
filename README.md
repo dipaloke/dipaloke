@@ -101,7 +101,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C236%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C236%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -153,8 +153,8 @@ Other                    1 min               ░░░░░░░░░░░�
 Chrome                   2 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        ██████████████████░░░░░░░   71.49 % 
-Linux                    39 mins             ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Windows                  1 hr 45 mins        ███████████████████░░░░░░   75.93 % 
+Linux                    33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -170,7 +170,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2026 14:44:59 UTC
+ Last Updated on 10/06/2026 03:26:32 UTC
 <!--END_SECTION:waka-->
 
 <br />
