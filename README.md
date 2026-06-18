@@ -101,7 +101,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C238%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C237%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -146,13 +146,15 @@ Sunday                   813 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     51 mins             █████████████████████████   100.00 % 
+JSON                     1 hr 9 mins         █████████████████████████   99.68 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Chrome                   51 mins             █████████████████████████   100.00 % 
+Chrome                   1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.00 % 
+Linux                    51 mins             ███████████████████░░░░░░   74.22 % 
+Windows                  17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -168,7 +170,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2026 15:20:48 UTC
+ Last Updated on 18/06/2026 03:37:46 UTC
 <!--END_SECTION:waka-->
 
 <br />
