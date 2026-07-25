@@ -101,7 +101,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2036%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -174,7 +176,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:24:08 UTC
+ Last Updated on 25/07/2026 13:19:34 UTC
 <!--END_SECTION:waka-->
 
 <br />
