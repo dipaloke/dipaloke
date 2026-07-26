@@ -146,21 +146,21 @@ Sunday                   1161 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 10 hrs 44 mins      ████████████░░░░░░░░░░░░░   49.55 % 
-Python                   6 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-HTML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Markdown                 11 hrs 6 mins       █████████████░░░░░░░░░░░░   50.27 % 
+Python                   6 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+HTML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 28 mins      █████████████████░░░░░░░░   66.79 % 
-Antigravity              4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-Chrome                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Claude Code              14 hrs 52 mins      █████████████████░░░░░░░░   67.33 % 
+Antigravity              4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Chrome                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Linux                    19 hrs 44 mins      ███████████████████████░░   91.08 % 
-Windows                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Linux                    20 hrs 9 mins       ███████████████████████░░   91.25 % 
+Windows                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -176,7 +176,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 13:19:34 UTC
+ Last Updated on 26/07/2026 02:30:07 UTC
 <!--END_SECTION:waka-->
 
 <br />
