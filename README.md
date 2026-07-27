@@ -101,7 +101,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C375%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -111,7 +111,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,106 Contributions in the Year 2026
+> 🏆 1,120 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -122,21 +122,21 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-🌆 Daytime                1872 commits        ███████████░░░░░░░░░░░░░░   45.40 % 
-🌃 Evening                1290 commits        ████████░░░░░░░░░░░░░░░░░   31.29 % 
-🌙 Night                  392 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+🌞 Morning                573 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+🌆 Daytime                1875 commits        ███████████░░░░░░░░░░░░░░   45.32 % 
+🌃 Evening                1297 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
+🌙 Night                  392 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   740 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Tuesday                  652 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Wednesday                558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Thursday                 418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Friday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Saturday                 276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Sunday                   1161 commits        ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Monday                   740 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Tuesday                  652 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Wednesday                558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Thursday                 420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Friday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Saturday                 282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Sunday                   1167 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
 ```
 
 
@@ -146,21 +146,21 @@ Sunday                   1161 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 11 hrs 6 mins       █████████████░░░░░░░░░░░░   50.27 % 
-Python                   6 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-HTML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Markdown                 11 hrs 20 mins      ██████████████░░░░░░░░░░░   54.46 % 
+Python                   4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+HTML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+SQL                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 52 mins      █████████████████░░░░░░░░   67.33 % 
-Antigravity              4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Chrome                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Claude Code              14 hrs 40 mins      ██████████████████░░░░░░░   70.42 % 
+Antigravity              3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Chrome                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Linux                    20 hrs 9 mins       ███████████████████████░░   91.25 % 
-Windows                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Linux                    19 hrs 18 mins      ███████████████████████░░   92.64 % 
+Windows                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -176,7 +176,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 13:15:41 UTC
+ Last Updated on 27/07/2026 02:38:04 UTC
 <!--END_SECTION:waka-->
 
 <br />
