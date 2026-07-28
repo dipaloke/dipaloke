@@ -101,7 +101,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C375%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C192%20hrs%202%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -146,21 +148,44 @@ Sunday                   1167 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 11 hrs 20 mins      ██████████████░░░░░░░░░░░   54.46 % 
-Python                   4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-HTML                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-SQL                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Markdown                 9 hrs 17 mins       ██████████████░░░░░░░░░░░   54.45 % 
+Python                   3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+HTML                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+SQL                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 40 mins      ██████████████████░░░░░░░   70.42 % 
-Antigravity              3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Chrome                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Claude Code              12 hrs 49 mins      ███████████████████░░░░░░   75.10 % 
+Antigravity              2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Chrome                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Linux                    19 hrs 18 mins      ███████████████████████░░   92.64 % 
-Windows                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Linux                    16 hrs 13 mins      ████████████████████████░   95.00 % 
+Windows                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 46 mins (80.64%)
+
+✍️ 8,083 lines written by AI, 19 lines written by hand (99.77% AI-written)
+
+🔤 170,306,756 Input Tokens, 807,583 Output Tokens
+
+💵 $871.58 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 147 AI Prompts
+
+Opus                     10,796 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 1,278 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 5.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -176,7 +201,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 14:27:52 UTC
+ Last Updated on 28/07/2026 02:12:33 UTC
 <!--END_SECTION:waka-->
 
 <br />
