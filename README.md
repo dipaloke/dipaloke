@@ -148,45 +148,45 @@ Sunday                   1167 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 11 hrs              ████████████████░░░░░░░░░   63.27 % 
-Python                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-SQL                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Markdown                 9 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.97 % 
+TypeScript               4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Python                   1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+SQL                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 22 mins      ██████████████████░░░░░░░   71.19 % 
-Antigravity              2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Chrome                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Claude Code              15 hrs 34 mins      ████████████████████░░░░░   79.97 % 
+Antigravity              2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Chrome                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Linux                    15 hrs 36 mins      ██████████████████████░░░   89.72 % 
-Windows                  1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Linux                    18 hrs              ███████████████████████░░   92.44 % 
+Windows                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 32 mins (77.83%)
+⏱ AI Coding Time: 16 hrs 52 mins (86.65%)
 
-✍️ 9,823 lines written by AI, 16 lines written by hand (99.84% AI-written)
+✍️ 17,369 lines written by AI, 14 lines written by hand (99.92% AI-written)
 
-🔤 197,939,508 Input Tokens, 767,084 Output Tokens
+🔤 304,325,151 Input Tokens, 1,136,654 Output Tokens
 
-💵 $999.66 Estimated AI Cost This Week
+💵 $1540.80 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 107 AI Prompts
+🧠 14 AI Sessions, 111 AI Prompts
 
-Opus                     9,847 lines         █████████████████████████   100.00 % 
+Opus                     17,493 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📄 Detailed Prompter — average 1,153 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 1,190 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +202,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 13:53:27 UTC
+ Last Updated on 31/07/2026 02:31:16 UTC
 <!--END_SECTION:waka-->
 
 <br />
