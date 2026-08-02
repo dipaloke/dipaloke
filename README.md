@@ -107,13 +107,13 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.98%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,192 Contributions in the Year 2026
+> 🏆 1,194 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -124,21 +124,21 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-🌆 Daytime                1917 commits        ███████████░░░░░░░░░░░░░░   45.60 % 
-🌃 Evening                1316 commits        ████████░░░░░░░░░░░░░░░░░   31.30 % 
-🌙 Night                  392 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+🌞 Morning                579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+🌆 Daytime                1917 commits        ███████████░░░░░░░░░░░░░░   45.46 % 
+🌃 Evening                1322 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
+🌙 Night                  399 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   741 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Tuesday                  664 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Wednesday                593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Friday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Saturday                 282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Sunday                   1167 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Monday                   741 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Tuesday                  664 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Wednesday                593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Thursday                 442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Friday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Saturday                 285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Sunday                   1174 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
 ```
 
 
@@ -148,45 +148,45 @@ Sunday                   1167 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 9 hrs 24 mins       █████████████░░░░░░░░░░░░   50.21 % 
-TypeScript               4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Python                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-SQL                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Markdown                 9 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.69 % 
+TypeScript               4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Python                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+SQL                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 50 mins      ████████████████████░░░░░   79.19 % 
-Antigravity              2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Chrome                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Claude Code              15 hrs 19 mins      ████████████████████░░░░░   79.80 % 
+Antigravity              2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Chrome                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Linux                    17 hrs 15 mins      ███████████████████████░░   92.14 % 
-Windows                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Linux                    17 hrs 43 mins      ███████████████████████░░   92.33 % 
+Windows                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 8 mins (86.13%)
+⏱ AI Coding Time: 16 hrs 36 mins (86.46%)
 
-✍️ 17,303 lines written by AI, 14 lines written by hand (99.92% AI-written)
+✍️ 18,461 lines written by AI, 14 lines written by hand (99.92% AI-written)
 
-🔤 302,428,976 Input Tokens, 1,111,702 Output Tokens
+🔤 319,018,173 Input Tokens, 1,167,873 Output Tokens
 
-💵 $1523.15 Estimated AI Cost This Week
+💵 $1607.50 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 107 AI Prompts
+🧠 13 AI Sessions, 104 AI Prompts
 
-Opus                     17,354 lines        █████████████████████████   100.00 % 
+Opus                     18,530 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
-📄 Detailed Prompter — average 1,141 characters per prompt
+📄 Detailed Prompter — average 1,169 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +202,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 13:13:55 UTC
+ Last Updated on 02/08/2026 02:28:58 UTC
 <!--END_SECTION:waka-->
 
 <br />
