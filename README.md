@@ -152,8 +152,10 @@ All 15 &#8212; [LinkedIn licences &amp; certifications](https://www.linkedin.com
 
 ## 06 &#183; Telemetry
 
-<img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dipaloke&count_private=true&theme=dark&background=161B22&border=30363D&ring=56D4DD&fire=56D4DD&currStreakLabel=8B949E&sideLabels=8B949E&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=6E7681&stroke=30363D&border_radius=6" alt="Contribution streak">
-<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=dipaloke&count_private=true&show_icons=true&rank_icon=github&bg_color=161B22&border_color=30363D&title_color=56D4DD&text_color=8B949E&icon_color=56D4DD&border_radius=6" alt="GitHub stats">
+<table width="100%"><tr>
+<td width="50%" align="center"><img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dipaloke&count_private=true&theme=dark&background=161B22&border=30363D&ring=56D4DD&fire=56D4DD&currStreakLabel=8B949E&sideLabels=8B949E&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=6E7681&stroke=30363D&border_radius=6" alt="Contribution streak"></td>
+<td width="50%" align="center"><img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=dipaloke&count_private=true&show_icons=true&rank_icon=github&bg_color=161B22&border_color=30363D&title_color=56D4DD&text_color=8B949E&icon_color=56D4DD&border_radius=6" alt="GitHub stats"></td>
+</tr></table>
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dipaloke&langs_count=6&layout=compact&hide=HTML&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=161B22&border_color=30363D&title_color=56D4DD&text_color=8B949E&border_radius=6" alt="Most used languages">
