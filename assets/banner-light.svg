@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Dipaloke Biswas — network automation engineer">
+  <defs>
+    <pattern id="g" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0v44" fill="none" stroke="#0f7f8c" stroke-width="1" opacity="0.09"></path>
+    </pattern>
+    <clipPath id="r"><rect x="0.5" y="0.5" width="999" height="199" rx="6"></rect></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1000" height="200" fill="#ffffff"></rect>
+    <rect width="1000" height="200" fill="url(#g)"></rect>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="199" rx="6" fill="none" stroke="#d0d7de"></rect>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="40" y="92" font-size="44" font-weight="700" letter-spacing="5.5" fill="#1f2328">DIPALOKE<tspan fill="#0f7f8c">.</tspan>BISWAS</text>
+    <text x="42" y="132" font-size="15" fill="#57606a">I automate a national fibre network — then build the software people use to watch it.</text>
+    <g text-anchor="end" font-size="12" font-weight="500" fill="#57606a">
+      <text x="960" y="72"><tspan fill="#1a7f37">●</tspan> LINK UP · DHAKA, BD</text>
+      <text x="960" y="96">FIBER@HOME · SINCE 2025</text>
+      <text x="960" y="120">FULL-STACK · NETWORK AUTOMATION</text>
+    </g>
+  </g>
+</svg>
