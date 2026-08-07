@@ -1,0 +1,3 @@
+# Python bytecode from importing scripts/build_assets.py
+__pycache__/
+*.pyc
