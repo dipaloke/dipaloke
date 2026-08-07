@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="322" viewBox="0 0 1000 322" role="img" aria-label="Stack — LANGUAGES: Python · TypeScript · JavaScript; AUTOMATION: Netmiko · NAPALM · Paramiko · Ansible; BACKEND: Django · Django REST Framework · FastAPI · GraphQL · NestJS · Express; FRONTEND: Next.js 16 · React · shadcn/ui · HeroUI · Tailwind; DATA: PostgreSQL · InfluxDB · MongoDB · TanStack Table · Zod; INFRA: Docker · Celery · GitHub Actions · Linux; TESTING: Pytest · Jest · Selenium">
+  <rect x="0.5" y="0.5" width="999" height="321" rx="6" fill="#0d1117" stroke="#21262d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <circle cx="44" cy="45" r="4" fill="#56d4dd"/>
+    <text x="64" y="50" font-size="12" font-weight="700" letter-spacing="1" fill="#56d4dd">LANGUAGES</text>
+    <text x="210" y="50" font-size="14" fill="#8b949e">Python · TypeScript · JavaScript</text>
+    <circle cx="44" cy="85" r="4" fill="#3fb950"/>
+    <text x="64" y="90" font-size="12" font-weight="700" letter-spacing="1" fill="#3fb950">AUTOMATION</text>
+    <text x="210" y="90" font-size="14" fill="#8b949e">Netmiko · NAPALM · Paramiko · Ansible</text>
+    <circle cx="44" cy="125" r="4" fill="#bc8cff"/>
+    <text x="64" y="130" font-size="12" font-weight="700" letter-spacing="1" fill="#bc8cff">BACKEND</text>
+    <text x="210" y="130" font-size="14" fill="#8b949e">Django · Django REST Framework · FastAPI · GraphQL · NestJS · Express</text>
+    <circle cx="44" cy="165" r="4" fill="#58a6ff"/>
+    <text x="64" y="170" font-size="12" font-weight="700" letter-spacing="1" fill="#58a6ff">FRONTEND</text>
+    <text x="210" y="170" font-size="14" fill="#8b949e">Next.js 16 · React · shadcn/ui · HeroUI · Tailwind</text>
+    <circle cx="44" cy="205" r="4" fill="#d29922"/>
+    <text x="64" y="210" font-size="12" font-weight="700" letter-spacing="1" fill="#d29922">DATA</text>
+    <text x="210" y="210" font-size="14" fill="#8b949e">PostgreSQL · InfluxDB · MongoDB · TanStack Table · Zod</text>
+    <circle cx="44" cy="245" r="4" fill="#f778ba"/>
+    <text x="64" y="250" font-size="12" font-weight="700" letter-spacing="1" fill="#f778ba">INFRA</text>
+    <text x="210" y="250" font-size="14" fill="#8b949e">Docker · Celery · GitHub Actions · Linux</text>
+    <circle cx="44" cy="285" r="4" fill="#56d4dd"/>
+    <text x="64" y="290" font-size="12" font-weight="700" letter-spacing="1" fill="#56d4dd">TESTING</text>
+    <text x="210" y="290" font-size="14" fill="#8b949e">Pytest · Jest · Selenium</text>
+  </g>
+</svg>

@@ -1,22 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Dipaloke Biswas — network automation engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Dipaloke Biswas — full-stack developer and network automation engineer. OPEN TO WORK · DHAKA, BD · HYBRID / REMOTE">
   <defs>
-    <pattern id="g" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0v44" fill="none" stroke="#56d4dd" stroke-width="1" opacity="0.07"></path>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0v44" fill="none" stroke="#56d4dd" stroke-width="1" opacity="0.07"/>
     </pattern>
-    <clipPath id="r"><rect x="0.5" y="0.5" width="999" height="199" rx="6"></rect></clipPath>
+    <clipPath id="round"><rect x="0.5" y="0.5" width="999" height="199" rx="6"/></clipPath>
   </defs>
-  <g clip-path="url(#r)">
-    <rect width="1000" height="200" fill="#090c11"></rect>
-    <rect width="1000" height="200" fill="url(#g)"></rect>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="200" fill="#090c11"/>
+    <rect width="1000" height="200" fill="url(#grid)"/>
   </g>
-  <rect x="0.5" y="0.5" width="999" height="199" rx="6" fill="none" stroke="#21262d"></rect>
+  <rect x="0.5" y="0.5" width="999" height="199" rx="6" fill="none" stroke="#21262d"/>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="40" y="92" font-size="44" font-weight="700" letter-spacing="5.5" fill="#f0f6fc">DIPALOKE<tspan fill="#56d4dd">.</tspan>BISWAS</text>
-    <text x="42" y="132" font-size="15" fill="#6e7681">I automate a national fibre network — then build the software people use to watch it.</text>
-    <g text-anchor="end" font-size="12" font-weight="500" fill="#6e7681">
-      <text x="960" y="72"><tspan fill="#3fb950">●</tspan> LINK UP · DHAKA, BD</text>
-      <text x="960" y="96">FIBER@HOME · SINCE 2025</text>
-      <text x="960" y="120">FULL-STACK · NETWORK AUTOMATION</text>
-    </g>
+    <text x="40" y="86" font-size="44" font-weight="700" letter-spacing="5.5" fill="#f0f6fc">DIPALOKE<tspan fill="#56d4dd">.</tspan>BISWAS</text>
+    <text x="42" y="122" font-size="15" fill="#8b949e">I automate a national fibre network — then build the software people use to watch it.</text>
+    <line x1="42" y1="150" x2="960" y2="150" stroke="#21262d"/>
+    <circle cx="46" cy="171" r="3.5" fill="#3fb950"/>
+    <text x="60" y="175" font-size="12" letter-spacing="0.8" fill="#3fb950">OPEN TO WORK · DHAKA, BD · HYBRID / REMOTE</text>
+    <text x="960" y="175" text-anchor="end" font-size="12" letter-spacing="0.8" fill="#6e7681">FIBER@HOME · FULL-STACK / NETWORK AUTOMATION</text>
   </g>
 </svg>

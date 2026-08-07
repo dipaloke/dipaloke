@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="174" viewBox="0 0 1000 174" role="img" aria-label="Now — SHIPPING: NAAS v2 — Fiber@Home's network ops platform, now a DRF API + Next.js 16 console. BUILDING: Agile East Bangladesh — a manufacturing-execution engine for MPO/MTP patch cords. ASK ME:  Netmiko vs. NAPALM, Django REST internals, or Next.js 16 at scale.">
+  <rect x="0.5" y="0.5" width="999" height="173" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <circle cx="44" cy="47" r="4" fill="#0f7f8c"/>
+    <text x="64" y="52" font-size="12" font-weight="700" letter-spacing="1" fill="#0f7f8c">SHIPPING</text>
+    <text x="210" y="52" font-size="14" fill="#57606a"><tspan font-weight="700" fill="#1f2328">NAAS v2</tspan> — Fiber@Home's network ops platform, now a DRF API + Next.js 16 console.</text>
+    <circle cx="44" cy="91" r="4" fill="#8250df"/>
+    <text x="64" y="96" font-size="12" font-weight="700" letter-spacing="1" fill="#8250df">BUILDING</text>
+    <text x="210" y="96" font-size="14" fill="#57606a"><tspan font-weight="700" fill="#1f2328">Agile East Bangladesh</tspan> — a manufacturing-execution engine for MPO/MTP patch cords.</text>
+    <circle cx="44" cy="135" r="4" fill="#9a6700"/>
+    <text x="64" y="140" font-size="12" font-weight="700" letter-spacing="1" fill="#9a6700">ASK ME</text>
+    <text x="210" y="140" font-size="14" fill="#57606a">Netmiko vs. NAPALM, Django REST internals, or Next.js 16 at scale.</text>
+  </g>
+</svg>

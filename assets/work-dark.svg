@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="NAAS (LIVE) — Fiber@Home's network operations platform. Config automation and scheduled job processing across a national fibre estate. Python · Django · Netmiko · Celery; NAAS v2 (IN REWRITE) — The same domain, decoupled — a DRF API behind a Next.js 16 console with grouped-header tables and CSV / XLSX / PDF export. TypeScript · DRF · HeroUI · TanStack">
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <g transform="translate(0 0)">
+    <rect x="0.5" y="0.5" width="487" height="199" rx="6" fill="#0d1117" stroke="#21262d"/>
+    <rect x="1" y="12" width="3" height="176" rx="1.5" fill="#3fb950"/>
+    <text x="28" y="50" font-size="19" font-weight="700" letter-spacing="0.5" fill="#f0f6fc">NAAS</text>
+    <circle cx="418.6" cy="45" r="3.5" fill="#3fb950"/>
+    <text x="460" y="49" text-anchor="end" font-size="11" letter-spacing="1" fill="#3fb950">LIVE</text>
+    <line x1="28" y1="74" x2="460" y2="74" stroke="#21262d"/>
+    <text x="28" y="104" font-size="13" fill="#8b949e">Fiber@Home's network operations platform. Config</text>
+    <text x="28" y="124" font-size="13" fill="#8b949e">automation and scheduled job processing across a</text>
+    <text x="28" y="144" font-size="13" fill="#8b949e">national fibre estate.</text>
+    <text x="28" y="176" font-size="11.5" letter-spacing="0.3" fill="#6e7681">Python · Django · Netmiko · Celery</text>
+  </g>
+  <g transform="translate(512 0)">
+    <rect x="0.5" y="0.5" width="487" height="199" rx="6" fill="#0d1117" stroke="#21262d"/>
+    <rect x="1" y="12" width="3" height="176" rx="1.5" fill="#56d4dd"/>
+    <text x="28" y="50" font-size="19" font-weight="700" letter-spacing="0.5" fill="#f0f6fc">NAAS v2</text>
+    <circle cx="373.0" cy="45" r="3.5" fill="#56d4dd"/>
+    <text x="460" y="49" text-anchor="end" font-size="11" letter-spacing="1" fill="#56d4dd">IN REWRITE</text>
+    <line x1="28" y1="74" x2="460" y2="74" stroke="#21262d"/>
+    <text x="28" y="104" font-size="13" fill="#8b949e">The same domain, decoupled — a DRF API behind a</text>
+    <text x="28" y="124" font-size="13" fill="#8b949e">Next.js 16 console with grouped-header tables and</text>
+    <text x="28" y="144" font-size="13" fill="#8b949e">CSV / XLSX / PDF export.</text>
+    <text x="28" y="176" font-size="11.5" letter-spacing="0.3" fill="#6e7681">TypeScript · DRF · HeroUI · TanStack</text>
+  </g>
+  </g>
+</svg>
