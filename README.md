@@ -127,7 +127,9 @@
 <summary><b>&nbsp;Coding-time breakdown</b> &nbsp;—&nbsp; updated every 12 hours by GitHub Actions</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C224%20hrs%2055%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -143,6 +145,50 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌆 Daytime                2113 commits        ███████████░░░░░░░░░░░░░░   45.72 % 
+🌃 Evening                1452 commits        ████████░░░░░░░░░░░░░░░░░   31.41 % 
+🌙 Night                  441 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   778 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Tuesday                  709 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Wednesday                687 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Thursday                 527 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Friday                   320 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Saturday                 303 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Sunday                   1298 commits        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+TypeScript               7 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
+Markdown                 5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.37 % 
+Python                   2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+
+🔥 Editors: 
+Claude Code              14 hrs 3 mins       █████████████████████░░░░   82.30 % 
+Chrome                   2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Antigravity              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
+💻 Operating System: 
+Linux                    15 hrs 33 mins      ███████████████████████░░   91.02 % 
+Windows                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -156,7 +202,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:32:14 UTC
+ Last Updated on 07/08/2026 12:57:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
