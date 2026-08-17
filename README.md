@@ -172,21 +172,21 @@ Sunday                   1645 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 12 hrs 47 mins      ███████████░░░░░░░░░░░░░░   44.58 % 
-TypeScript               6 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Python                   5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Other                    3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Markdown                 12 hrs 30 mins      ███████████░░░░░░░░░░░░░░   43.57 % 
+TypeScript               6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Python                   5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Other                    3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 Diff                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 7 mins       ██████████████████░░░░░░░   70.10 % 
-Chrome                   4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-OpenClaw                 3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Antigravity              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Claude Code              20 hrs 52 mins      ██████████████████░░░░░░░   72.72 % 
+OpenClaw                 3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Chrome                   3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Antigravity              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Linux                    25 hrs 10 mins      ██████████████████████░░░   87.67 % 
-Windows                  3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Linux                    26 hrs 10 mins      ███████████████████████░░   91.18 % 
+Windows                  2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +202,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 12:34:58 UTC
+ Last Updated on 17/08/2026 01:05:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
