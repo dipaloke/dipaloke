@@ -127,7 +127,7 @@
 <summary><b>&nbsp;Coding-time breakdown</b> &nbsp;—&nbsp; updated every 12 hours by GitHub Actions</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C273%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
@@ -172,22 +172,22 @@ Sunday                   1648 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    5 hrs               ████████████░░░░░░░░░░░░░   48.68 % 
-Python                   2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-HTML                     2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    6 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.62 % 
+Python                   3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+HTML                     2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 57 mins       ██████████████░░░░░░░░░░░   57.92 % 
-Chrome                   2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-OpenClaw                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Antigravity              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              7 hrs 44 mins       ██████████████░░░░░░░░░░░   57.51 % 
+Chrome                   2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+OpenClaw                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Antigravity              1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Linux                    7 hrs 57 mins       ███████████████████░░░░░░   77.32 % 
-Windows                  2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Linux                    11 hrs 3 mins       █████████████████████░░░░   82.11 % 
+Windows                  2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,7 +203,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 18:46:07 UTC
+ Last Updated on 01/09/2026 03:27:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
