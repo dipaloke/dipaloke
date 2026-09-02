@@ -172,22 +172,22 @@ Sunday                   1694 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    6 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.62 % 
-Python                   3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-HTML                     2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Other                    6 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.27 % 
+Python                   3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Markdown                 2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 44 mins       ██████████████░░░░░░░░░░░   57.51 % 
-Chrome                   2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-OpenClaw                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Antigravity              1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Claude Code              8 hrs 10 mins       ████████████████░░░░░░░░░   62.27 % 
+OpenClaw                 2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Chrome                   1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Antigravity              1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Linux                    11 hrs 3 mins       █████████████████████░░░░   82.11 % 
-Windows                  2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Linux                    11 hrs 43 mins      ██████████████████████░░░   89.40 % 
+Windows                  1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,7 +203,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 16:05:38 UTC
+ Last Updated on 02/09/2026 02:45:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
