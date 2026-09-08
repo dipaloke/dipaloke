@@ -172,22 +172,21 @@ Sunday                   1957 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    7 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.15 % 
-Markdown                 6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-Python                   4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Bash                     2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Text                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Other                    6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+Markdown                 5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+Python                   4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Bash                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Text                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 23 mins      ████████████████░░░░░░░░░   64.00 % 
-Antigravity              3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Chrome                   2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-OpenClaw                 2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Claude Code              14 hrs 31 mins      █████████████████░░░░░░░░   67.95 % 
+OpenClaw                 2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Antigravity              2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Chrome                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 
 💻 Operating System: 
-Linux                    21 hrs 34 mins      ██████████████████████░░░   89.72 % 
-Windows                  2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Linux                    19 hrs 19 mins      ███████████████████████░░   90.41 % 
+Windows                  2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,7 +202,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 17:13:40 UTC
+ Last Updated on 08/09/2026 02:57:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
