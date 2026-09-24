@@ -131,13 +131,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.15%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.38%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,884 Contributions in the Year 2026
+> 🏆 1,906 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -148,21 +148,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1330 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-🌆 Daytime                4716 commits        █████████████░░░░░░░░░░░░   51.59 % 
-🌃 Evening                2605 commits        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-🌙 Night                  491 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+🌞 Morning                1390 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌆 Daytime                4992 commits        █████████████░░░░░░░░░░░░   51.69 % 
+🌃 Evening                2781 commits        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌙 Night                  494 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1859 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Tuesday                  1708 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Wednesday                1833 commits        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Thursday                 1007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Friday                   330 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Saturday                 335 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Sunday                   2070 commits        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Monday                   1922 commits        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Tuesday                  1897 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Wednesday                1934 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Thursday                 1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Friday                   330 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Saturday                 353 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Sunday                   2127 commits        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
 ```
 
 
@@ -172,21 +172,21 @@ Sunday                   2070 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   13 hrs 5 mins       ████████████░░░░░░░░░░░░░   48.09 % 
-Markdown                 6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-HTML                     3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Other                    2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Python                   11 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   41.83 % 
+Markdown                 7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+HTML                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 30 mins      ███████████████████░░░░░░   75.26 % 
-OpenClaw                 3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Chrome                   2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Antigravity              1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Claude Code              20 hrs 1 min        ███████████████████░░░░░░   74.27 % 
+OpenClaw                 3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Chrome                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Antigravity              1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 💻 Operating System: 
-Linux                    25 hrs 56 mins      ████████████████████████░   95.21 % 
-Windows                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Linux                    25 hrs 48 mins      ████████████████████████░   95.69 % 
+Windows                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +202,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 16:06:23 UTC
+ Last Updated on 24/09/2026 03:03:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
