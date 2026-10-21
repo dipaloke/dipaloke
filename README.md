@@ -172,21 +172,21 @@ Sunday                   4517 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Markdown                 5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-HTML                     3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Other                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Text                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Markdown                 3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.00 % 
+Python                   2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+Text                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Other                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+HTML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 25 mins      ████████████████░░░░░░░░░   65.98 % 
-Chrome                   3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-OpenClaw                 2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Antigravity              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Claude Code              5 hrs 34 mins       ████████████████░░░░░░░░░   64.76 % 
+Chrome                   2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+OpenClaw                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Antigravity              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Linux                    17 hrs 12 mins      ███████████████████████░░   91.39 % 
-Windows                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Linux                    7 hrs 31 mins       ██████████████████████░░░   87.51 % 
+Windows                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +202,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 16:30:13 UTC
+ Last Updated on 21/10/2026 03:18:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
