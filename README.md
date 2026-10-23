@@ -172,21 +172,18 @@ Sunday                   4517 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
-Python                   2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.36 % 
-Text                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-HTML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown                 23 mins             ████████████░░░░░░░░░░░░░   49.07 % 
+Python                   16 mins             █████████░░░░░░░░░░░░░░░░   34.84 % 
+TypeScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 33 mins       █████████████████░░░░░░░░   67.02 % 
-Chrome                   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-OpenClaw                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Antigravity              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Claude Code              43 mins             ███████████████████████░░   91.62 % 
+Chrome                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 
 💻 Operating System: 
-Linux                    7 hrs 13 mins       ██████████████████████░░░   87.19 % 
-Windows                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +199,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 16:45:01 UTC
+ Last Updated on 23/10/2026 03:22:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
