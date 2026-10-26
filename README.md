@@ -172,19 +172,21 @@ Sunday                   4722 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   30 mins             ████████████░░░░░░░░░░░░░   48.80 % 
-Markdown                 23 mins             ██████████░░░░░░░░░░░░░░░   38.09 % 
-TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Python                   2 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.77 % 
+HTML                     1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.28 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 Editors: 
-Claude Code              51 mins             █████████████████████░░░░   83.35 % 
-Antigravity              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Chrome                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Claude Code              2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.76 % 
+Chrome                   1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   31.65 % 
+OpenClaw                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Antigravity              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 💻 Operating System: 
-Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
+Linux                    3 hrs 59 mins       ██████████████████████░░░   87.26 % 
+Windows                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -200,7 +202,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 15:38:01 UTC
+ Last Updated on 26/10/2026 03:10:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
